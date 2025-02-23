@@ -1,0 +1,89 @@
+h1 {
+    background-color: white;
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+body {
+    background-color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.myphoto1 {
+   width: 100%;
+   height: 75%;
+   margin-top: 40px;
+   margin-left: 0%;
+   margin-right: 50px;
+}
+.post1 {
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.post1 p {
+    margin-top: 5px;
+    margin-bottom: -10px;
+    text-align: center;
+}
+.myphoto2 {
+    width: 450px;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+.post2 {
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.post2 p {
+    text-align: center;
+}
+.myphoto3 {
+    width: 450px;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+.post3 {
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.post3 p {
+    text-align: center;
+}
+.myphoto4 {
+    width: 450px;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+.post4 {
+    width: 450px;
+    height: 450px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.post4 p {
+    text-align: center;
+}
